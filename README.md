@@ -43,7 +43,7 @@ La aplicación está enfocada en demostrar el desarrollo de apps modernas utiliz
 
 ## 📂 Estructura del proyecto
 
-
+```
 uber-clone/
 │
 ├── 📁 app/
@@ -54,7 +54,7 @@ uber-clone/
 ├── App.js
 ├── package.json
 └── README.md
-
+```
 
 ---
 
@@ -62,11 +62,11 @@ uber-clone/
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/tuusuario/uber-clone.git
+git clone https://github.com/isairey/App-de-Uber-Clone.git
 ```
 Acceder al proyecto:
 ```
-cd uber-clone
+cd App-de-Uber-Clone
 ```
 Instalar dependencias:
 ```
